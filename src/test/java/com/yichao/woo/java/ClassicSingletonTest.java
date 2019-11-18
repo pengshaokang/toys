@@ -28,6 +28,7 @@ public class ClassicSingletonTest {
             ClassicSingleton classicSingleton = future.get();
 //            System.out.println(classicSingleton.hashCode());
             //test
+            //test-test
         }
 
 
