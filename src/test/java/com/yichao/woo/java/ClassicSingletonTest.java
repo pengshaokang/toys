@@ -27,11 +27,8 @@ public class ClassicSingletonTest {
         for (Future<ClassicSingleton> future : futures) {
             ClassicSingleton classicSingleton = future.get();
 //            System.out.println(classicSingleton.hashCode());
-            //test
-            //test-test
+            //test merge
         }
-
-
     }
 
     static class GetClassicSingletonWork implements Callable<ClassicSingleton> {
