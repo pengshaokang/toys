@@ -28,7 +28,7 @@ public class ClassicSingletonTest {
             ClassicSingleton classicSingleton = future.get();
 //            System.out.println(classicSingleton.hashCode());
             //test merge
-            //test idea merge
+            //test idea merge test
         }
     }
 
